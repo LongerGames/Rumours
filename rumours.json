@@ -2,7 +2,7 @@
   "rumours": [
     {
       "id": 1,
-      "name": "Alexandr Nübel",
+      "name": "Alexandr Nubel",
       "status": 3,
       "team": "Bayern Munich",
       "date": "07.07.2026",
@@ -10,27 +10,27 @@
       "age": 29,
       "value": "12M€",
       "injury": "Yok",
-      "details": "Kulübü ve kendisiyle prensip anlaşmasına vardığımız profesyonel futbolcu Alexandr Nübel, sağlık kontrolleri ve transfer sürecinin tamamlanması için bu akşam İstanbul’a geldi.",
-      "source": "Beşiktaş",
+      "details": "Kulubu ve kendisiyle prensip anlasmasina vardigimiz profesyonel futbolcu Alexandr Nubel, saglik kontrolleri ve transfer surecinin tamamlanmasi icin bu aksam Istanbul'a geldi.",
+      "source": "Besiktas",
       "trust": 10
     },
     {
       "id": 2,
-      "name": "Doğan Alemdar",
+      "name": "Dogan Alemdar",
       "status": 3,
-      "team": "Başakşehir",
+      "team": "Basaksehir",
       "date": "07.07.2026",
       "season": "26/27",
       "age": 23,
       "value": "1.5M€",
-      "injury": "Çapraz Bağ Kopması",
-      "details": "Kulübü ve kendisiyle prensip anlaşmasına vardığımız profesyonel futbolcu Doğan Alemdar, sağlık kontrolleri ve transfer sürecinin tamamlanması için bu akşam İstanbul’a geldi.",
-      "source": "Beşiktaş",
+      "injury": "Capraz Bag Kopmasi",
+      "details": "Kulubu ve kendisiyle prensip anlasmasina vardigimiz profesyonel futbolcu Dogan Alemdar, saglik kontrolleri ve transfer surecinin tamamlanmasi icin bu aksam Istanbul'a geldi.",
+      "source": "Besiktas",
       "trust": 10
     },
     {
       "id": 3,
-      "name": "İlhan Fakılı",
+      "name": "Ilhan Fakili",
       "status": 3,
       "team": "Clermont Foot 63",
       "date": "05.07.2026",
@@ -38,8 +38,8 @@
       "age": 20,
       "value": "1.20M€",
       "injury": "Yok",
-      "details": "Nihai transferi hususunda Clermont Foot 63 ile anlaşmaya varılan profesyonel futbolcu İlhan Fakılı ile 4 yıllık sözleşme imzalanmıştır.",
-      "source": "Beşiktaş",
+      "details": "Nihai transferi hususunda Clermont Foot 63 ile anlasmaya varilan profesyonel futbolcu Ilhan Fakili ile 4 yillik sozlesme imzalanmistir.",
+      "source": "Besiktas",
       "trust": 10
     },
     {
@@ -52,22 +52,22 @@
       "age": 21,
       "value": "12M€",
       "injury": "Belirtilmedi",
-      "details": "Profesyonel futbolcu Kassoum Ouattara’nın nihai transferi hususunda AS Monaco ile anlaşmaya varılmış ve 4 yıllık sözleşme imzalanmıştır.",
-      "source": "Beşiktaş",
+      "details": "Profesyonel futbolcu Kassoum Ouattara’nin nihai transferi hususunda AS Monaco ile anlasmaya varilmis ve 4 yillik sozlesme imzalanmistir.",
+      "source": "Besiktas",
       "trust": 10
     },
     {
       "id": 5,
-      "name": "Salih Özcan",
+      "name": "Salih Ozcan",
       "status": 3,
-      "team": "Kulüpsüz",
+      "team": "Kulupsuz",
       "date": "05.07.2026",
       "season": "26/27",
       "age": 28,
       "value": "3.50M€",
       "injury": "Belirtilmedi",
-      "details": "Salih Özcan Beşiktaş’ta! Her konuda anlaşma sağlandı.",
-      "source": "Ertan Süzgün",
+      "details": "Salih Ozcan Besiktas'ta! Her konuda anlasma saglandi.",
+      "source": "Ertan Suzgun",
       "trust": 7
     },
     {
@@ -80,22 +80,22 @@
       "age": 31,
       "value": "20M€",
       "injury": "Yok",
-      "details": "Kulüp ayağında bir sorun yok. Beşiktaş, Arsenal ile anlaşmayı günler öncesinden yaptı.",
-      "source": "Ertan Süzgün",
+      "details": "Kulup ayaginda bir sorun yok. Besiktas, Arsenal ile anlasmayi gunler oncesinden yapti.",
+      "source": "Ertan Suzgun",
       "trust": 7
     }
   ],
   "squad": {
-    "gk": ["Alexandr Nübel", "Doğan Alemdar"],
+    "gk": ["Alexandr Nubel", "Dogan Alemdar"],
     "rb": ["Amir Murillo", "Taylan Bulut"],
-    "rcb": ["Emmanuel Agbadou", "Yasin Özcan"],
-    "lcb": ["Tiago Djalo", "Emirhan Topçu"],
-    "lb": ["Kassoum Ouattara", "Rıdvan Yılmaz"],
-    "dm": ["Wilfried Ndidi", "Kartal Kayra Yılmaz"],
-    "cm": ["Orkun Kökçü", "Amir Hadziahmetovc"],
+    "rcb": ["Emmanuel Agbadou", "Yasin Ozcan"],
+    "lcb": ["Tiago Djalo", "Emirhan Topcu"],
+    "lb": ["Kassoum Ouattara", "Ridvan Yilmaz"],
+    "dm": ["Wilfried Ndidi", "Kartal Kayra Yilmaz"],
+    "cm": ["Orkun Kokcu", "Amir Hadziahmetovc"],
     "cam": ["Junior Olaitan", "Joao Mario"],
-    "lw": ["Leandro Trossard", "İlhan Fakılı"],
+    "lw": ["Leandro Trossard", "Ilhan Fakili"],
     "rw": ["Vaclav Cerny", "Milot Rashica"],
-    "st": ["Hyeon Gyu Oh", "Semih Kılıçsoy"]
+    "st": ["Hyeon Gyu Oh", "Semih Kilicsoy"]
   }
 }
