@@ -1,6 +1,7 @@
 {
   "rumours": [
     { "id": 1, "name": "Orkun Kokcu", "color": "3", "team": "Benfica", "date": "07.07.2026", "age": "24", "value": "30M€", "injury": "Yok", "details": "...", "source": "Fabrizio Romano", "trust": "9" },
-    { "id": 2, "name": "Leandro Trossard", "color": "2", "team": "Arsenal", "date": "07.07.2026", "age": "31", "value": "18M€", "injury": "Yok", "details": "Oyuncuyla anlaşıldı.", "source": "Sercan Dikme", "trust": "3" }
+    { "id": 2, "name": "Leandro Trossard", "color": "2", "team": "Arsenal", "date": "07.07.2026", "age": "31", "value": "18M€", "injury": "Yok", "details": "Oyuncuyla anlaşıldı.", "source": "Sercan Dikme", "trust": "3" },
+    { "id": 2, "name": "Alexandr Nubel", "color": "3", "team": "Bayern Munich", "date": "07.07.2026", "age": "29", "value": "5+5M€", "injury": "Yok", "details": "Oyuncuyla anlaşıldı.", "source": "Sercan Dikme", "trust": "3" }
   ]
 }
