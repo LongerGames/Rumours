@@ -2,7 +2,8 @@
   "rumours": [
     { "id": 1, "name": "Orkun Kokcu", "status": 3, "team": "Benfica", "date": "07.07.2026", "season": "26/27", "age": 24, "value": "30M€", "injury": "Yok", "details": "...", "source": "Fabrizio Romano", "trust": 9 },
     { "id": 2, "name": "Leandro Trossard", "status": 2, "team": "Arsenal", "date": "07.07.2026", "season": "26/27", "age": 31, "value": "18M€", "injury": "Yok", "details": "Oyuncuyla anlaşıldı.", "source": "Sercan Dikme", "trust": "3" },
-    { "id": 3, "name": "Alexandr Nubel", "status": 3, "team": "Bayern Munich", "date": "07.07.2026", "season": "26/27", "age": 29, "value": "5+5M€", "injury": "Yok", "details": "Oyuncuyla anlaşıldı.", "source": "Sercan Dikme", "trust": 3 }
+    { "id": 3, "name": "Alexandr Nubel", "status": 3, "team": "Bayern Munich", "date": "07.07.2026", "season": "26/27", "age": 29, "value": "5+5M€", "injury": "Yok", "details": "Oyuncuyla anlaşıldı.", "source": "Sercan Dikme", "trust": 3 },
+    { "id": 4, "name": "Dusan Vlahovic", "status": 3, "team": "Juventus", "date": "07.07.2026", "season": "27/28", "age": 26, "value": "35M€", "injury": "Yok", "details": "Beşiktaş, transferi takıntı haline getirdi.", "source": "Fabrizio Romano", "trust": 9 }
   ],
   "squad":{
     "gk": ["Alexandr Nübel", "Doğan Alemdar"],
@@ -10,8 +11,8 @@
     "rcb": ["Emmanuel Agbadou", "Yasin Özcan"],
     "lcb": ["Tiago Djalo", "Emirhan Topçu"],
     "lb": ["Kassoum Ouattara", "Rıdvan Yılmaz"],
-    "dm": ["Orkun Kökçü", "Amir Hadziahmetovc"],
-    "cm": ["Wilfried Ndidi", "Kartal Kayra Yılmaz"],
+    "dm": ["Wilfried Ndidi", "Kartal Kayra Yılmaz"],
+    "cm": ["Orkun Kökçü", "Amir Hadziahmetovc"],
     "cam": ["Junior Olaitan", "Joao Mario"],
     "lw": ["Leandro Trossard", "İlhan Fakılı"],
     "rw": ["Vaclav Cerny", "Milot Rashica"],
