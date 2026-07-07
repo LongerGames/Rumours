@@ -3,5 +3,53 @@
     { "id": 1, "name": "Orkun Kokcu", "status": 3, "team": "Benfica", "date": "07.07.2026", "season": "26/27", "age": 24, "value": "30M€", "injury": "Yok", "details": "...", "source": "Fabrizio Romano", "trust": 9 },
     { "id": 2, "name": "Leandro Trossard", "status": 2, "team": "Arsenal", "date": "07.07.2026", "season": "26/27", "age": 31, "value": "18M€", "injury": "Yok", "details": "Oyuncuyla anlaşıldı.", "source": "Sercan Dikme", "trust": "3" },
     { "id": 3, "name": "Alexandr Nubel", "status": 3, "team": "Bayern Munich", "date": "07.07.2026", "season": "26/27", "age": 29, "value": "5+5M€", "injury": "Yok", "details": "Oyuncuyla anlaşıldı.", "source": "Sercan Dikme", "trust": 3 }
-  ]
+  ],
+  "squad": {
+    "gk": [
+      "Mert Günok",
+      "Ersin Destanoğlu"
+    ],
+
+    "rb": [
+      "Jonas Svensson",
+      "Tayyip Talha"
+    ],
+
+    "rcb": [
+      "Gabriel Paulista"
+    ],
+
+    "lcb": [
+      "Felix Uduokhai"
+    ],
+
+    "lb": [
+      "Arthur Masuaku"
+    ],
+
+    "dm": [
+      "Gedson Fernandes"
+    ],
+
+    "cm": [
+      "Amir Hadžiahmetović"
+    ],
+
+    "cam": [
+      "Rafa Silva"
+    ],
+
+    "lw": [
+      "Muçi"
+    ],
+
+    "rw": [
+      "Rashica"
+    ],
+
+    "st": [
+      "Semih Kılıçsoy",
+      "Mustafa Hekimoğlu"
+    ]
+  }
 }
