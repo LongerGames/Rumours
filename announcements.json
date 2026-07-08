@@ -1,0 +1,31 @@
+{
+  "updates": [
+    {
+      "id": 1,
+      "date": "07.07.2026",
+      "title": "Güncelleme 1.1",
+      "content": "Yeni transfer sistemi eklendi."
+    },
+    {
+      "id": 2,
+      "date": "08.07.2026",
+      "title": "Güncelleme 1.2",
+      "content": "Resmileşenler sekmesi eklendi."
+    }
+  ],
+
+  "news": [
+    {
+      "id": 1,
+      "date": "11.02.2027",
+      "title": "Kombine Satışları",
+      "content": "2027 sezonu kombine satışları başladı."
+    },
+    {
+      "id": 2,
+      "date": "15.02.2027",
+      "title": "Forma Tanıtımı",
+      "content": "Yeni sezon formaları tanıtıldı."
+    }
+  ]
+}
