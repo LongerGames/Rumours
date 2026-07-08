@@ -101,7 +101,7 @@
     {
       "id": 8,
       "name": "Teun Koopmeiners",
-      "status": 4,
+      "status": 1,
       "team": "Juventus",
       "date": "07.07.2026",
       "season": "26/27",
@@ -115,7 +115,7 @@
     {
       "id": 9,
       "name": "Romelu Lukaku",
-      "status": 4,
+      "status": 1,
       "team": "Napoli",
       "date": "07.07.2026",
       "season": "26/27",
@@ -123,8 +123,8 @@
       "value": "6M€",
       "injury": "Var",
       "details": "Besiktas'a onerildi; 10M€ maas + forma satisindan pay isteniyor.",
-      "source": "Ertan Suzgun",
-      "trust": 7
+      "source": "Yagiz Sabuncuoglu",
+      "trust": 6
     }
   ],
   "squad": {
