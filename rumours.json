@@ -83,6 +83,48 @@
       "details": "Kulup ayaginda bir sorun yok. Besiktas, Arsenal ile anlasmayi gunler oncesinden yapti.",
       "source": "Ertan Suzgun",
       "trust": 7
+    },
+    {
+      "id": 7,
+      "name": "Abdul Fatawu",
+      "status": 2,
+      "team": "Leicester City",
+      "date": "07.07.2026",
+      "season": "26/27",
+      "age": 23,
+      "value": "20M€",
+      "injury": "Yok",
+      "details": "Besiktas kiralama + zorunlu opsiyon teklifi yapti, oyuncu sicak bakiyor.",
+      "source": "Ertan Suzgun",
+      "trust": 7
+    },
+    {
+      "id": 8,
+      "name": "Teun Koopmeiners",
+      "status": 4,
+      "team": "Juventus",
+      "date": "07.07.2026",
+      "season": "26/27",
+      "age": 28,
+      "value": "14M€",
+      "injury": "Belirtilmedi",
+      "details": "Koopmeiners, konusulan isimlerden biri.",
+      "source": "Ertan Suzgun",
+      "trust": 7
+    },
+    {
+      "id": 9,
+      "name": "Romelu Lukaku",
+      "status": 4,
+      "team": "Napoli",
+      "date": "07.07.2026",
+      "season": "26/27",
+      "age": 33,
+      "value": "6M€",
+      "injury": "Var",
+      "details": "Besiktas'a onerildi; 10M€ maas + forma satisindan pay isteniyor.",
+      "source": "Ertan Suzgun",
+      "trust": 7
     }
   ],
   "squad": {
@@ -99,3 +141,4 @@
     "st": ["Hyeon Gyu Oh", "Semih Kilicsoy"]
   }
 }
+
