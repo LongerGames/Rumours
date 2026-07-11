@@ -75,12 +75,12 @@
       "name": "Leandro Trossard",
       "status": 2,
       "team": "Arsenal",
-      "date": "07.07.2026",
+      "date": "11.07.2026",
       "season": "26/27",
       "age": 31,
-      "value": "20M€",
+      "value": "18M€",
       "injury": "Yok",
-      "details": "Kulup ayaginda bir sorun yok. Besiktas, Arsenal ile anlasmayi gunler oncesinden yapti.",
+      "details": "Temsilcisiyle yapilan yuzyuze gorusmelerde bircok konuda ilerleme kaydedildi! Belcika'nin elenmesiyle oyuncu ailesinin yanina donecek. Besiktas, tatil oncesi sozlesmeyi imzalatmak istiyor.",
       "source": "Ertan Suzgun",
       "trust": 7
     },
@@ -101,7 +101,7 @@
     {
       "id": 8,
       "name": "Teun Koopmeiners",
-      "status": 1,
+      "status": 4,
       "team": "Juventus",
       "date": "07.07.2026",
       "season": "26/27",
@@ -115,16 +115,16 @@
     {
       "id": 9,
       "name": "Romelu Lukaku",
-      "status": 1,
+      "status": 4,
       "team": "Napoli",
       "date": "07.07.2026",
       "season": "26/27",
       "age": 33,
       "value": "6M€",
-      "injury": "Sakat oglu sakat",
+      "injury": "Var",
       "details": "Besiktas'a onerildi; 10M€ maas + forma satisindan pay isteniyor.",
-      "source": "Yagiz Sabuncuoglu",
-      "trust": 6
+      "source": "Ertan Suzgun",
+      "trust": 7
     }
   ],
   "squad": {
@@ -141,4 +141,3 @@
     "st": ["Hyeon Gyu Oh", "Semih Kilicsoy"]
   }
 }
-
