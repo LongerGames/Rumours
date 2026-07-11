@@ -73,16 +73,16 @@
     {
       "id": 6,
       "name": "Leandro Trossard",
-      "status": 2,
+      "status": 3,
       "team": "Arsenal",
       "date": "11.07.2026",
       "season": "26/27",
       "age": 31,
-      "value": "18M€",
+      "value": "20M€",
       "injury": "Yok",
-      "details": "Trossard'la ilgili olumsuz hava olusmasi icin hicbir sebep yok. BJK, hem Arsenal'in istedigi bonservisi hem de oyuncunun tum taleplerini kabul etti. Ustelik bugun itibariyle ortada baska bir resmi teklif de yok. BJK, milli mac sonrasi Trossard'i buraya getirme hedefinde.",
-      "source": "Firat Gunayer",
-      "trust": 7
+      "details": "Leandro Trossard en gec carsamba gunu Istanbul'da! Besiktas, Arsenal'e 20 M€ bonservis bedeli odeyecek. Trossard, Besiktas ile 3+1 yillik sozlesme imzalayacak. Senelik 9 M€ + bonuslar kazanacak.",
+      "source": "Haber Kartali",
+      "trust": 8
     },
     {
       "id": 7,
@@ -140,4 +140,4 @@
     "rw": ["Vaclav Cerny", "Milot Rashica"],
     "st": ["Hyeon Gyu Oh", "Semih Kilicsoy"]
   }
-}
+    }
