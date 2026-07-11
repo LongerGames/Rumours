@@ -125,6 +125,20 @@
       "details": "Besiktas'a onerildi; 10M€ maas + forma satisindan pay isteniyor.",
       "source": "Ertan Suzgun",
       "trust": 7
+    },
+    {
+      "id": 10,
+      "name": "Tawfik Bentayeb",
+      "status": 2,
+      "team": "ES Troyes AC",
+      "date": "12.07.2026",
+      "season": "26/27",
+      "age": 24,
+      "value": "8M€",
+      "injury": "Yok",
+      "details": "Super Lig'i tercih eden Fasli golcu, son birkac saat icinde Besiktas ve Trabzonspor ile goruntulu gorusme gerceklestirdi.",
+      "source": "Sacha Tavolieri",
+      "trust": 7
     }
   ],
   "squad": {
