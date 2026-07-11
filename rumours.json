@@ -138,7 +138,21 @@
       "injury": "Yok",
       "details": "Super Lig'i tercih eden Fasli golcu, son birkac saat icinde Besiktas ve Trabzonspor ile goruntulu gorusme gerceklestirdi.",
       "source": "Sacha Tavolieri",
-      "trust": 7
+      "trust": 8
+    },
+    {
+      "id": 11,
+      "name": "Ersin Destanoglu",
+      "status": 3,
+      "team": "Al-Jazira",
+      "date": "12.07.2026",
+      "season": "26/27",
+      "age": 25,
+      "value": "2M€",
+      "injury": "Yok",
+      "details": "Besiktas'tan ayrilan Ersin Destanoglu, Birlesik Arap Emirlikleri ekibi Al-Jazira ile 3 yillik anlasma sagladi.",
+      "source": "Sercan Dikme",
+      "trust": 8
     }
   ],
   "squad": {
@@ -154,4 +168,4 @@
     "rw": ["Vaclav Cerny", "Milot Rashica"],
     "st": ["Hyeon Gyu Oh", "Semih Kilicsoy"]
   }
-    }
+}
