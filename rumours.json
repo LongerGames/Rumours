@@ -71,19 +71,23 @@
       "trust": 7
     },
     {
-      "id": 6,
-      "name": "Leandro Trossard",
-      "status": 2,
-      "team": "Arsenal",
-      "date": "11.07.2026",
-      "season": "26/27",
-      "age": 31,
-      "value": "18M€",
-      "injury": "Yok",
-      "details": "Temsilcisiyle yapilan yuzyuze gorusmelerde bircok konuda ilerleme kaydedildi! Belcika'nin elenmesiyle oyuncu ailesinin yanina donecek. Besiktas, tatil oncesi sozlesmeyi imzalatmak istiyor.",
-      "source": "Ertan Suzgun",
-      "trust": 7
+     {
+  "id": 6,
+  "name": "Leandro Trossard",
+  "status": 2,
+  "team": "Arsenal",
+  "date": "11.07.2026",
+  "season": "26/27",
+  "age": 31,
+  "value": "18M€",
+  "injury": "Yok",
+  "details": "Trossard'la ilgili olumsuz hava olusmasi icin hicbir sebep yok. BJK, hem Arsenal'in istedigi bonservisi hem de oyuncunun tum taleplerini kabul etti. Ustelik bugun itibariyle ortada baska bir resmi teklif de yok. BJK, milli mac sonrasi Trossard'i buraya getirme hedefinde.",
+  "source": "Firat Gunayer",
+  "trust": 8.70,
+
+}
     },
+    
     {
       "id": 7,
       "name": "Abdul Fatawu",
