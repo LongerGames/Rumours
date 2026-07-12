@@ -136,7 +136,7 @@
       "age": 24,
       "value": "8M€",
       "injury": "Yok",
-      "details": "Super Lig'i tercih eden Fasli golcu, son birkac saat icinde Besiktas ve Trabzonspor ile goruntulu gorusme gerceklestirdi.",
+      "details": "Super Lig'i tercih eden Fasli golcu, son birkac saat icinde Besiktas and Trabzonspor ile goruntulu gorusme gerceklestirdi.",
       "source": "Sacha Tavolieri",
       "trust": 8
     },
@@ -209,6 +209,20 @@
       "details": "Marsilya yasadigi ekonomik sikintilar nedeniyle bircok oyuncusunu satilik listesine koydu. Besiktas bu firsati degerlendirmek uzere Marsilya ile ilk temasi kurmaya hazirlaniyor.",
       "source": "Fotomac",
       "trust": 5.5
+    },
+    {
+      "id": 16,
+      "name": "Oguz Aydin",
+      "status": 2,
+      "team": "Fenerbahce",
+      "date": "12.07.2026",
+      "season": "26/27",
+      "age": 25,
+      "value": "4.50M€",
+      "injury": "Yok",
+      "details": "Besiktas yonetiminin yerli oyuncu havuzunu genisletmek amaciyla Oguz Aydin'in durumunu yakindan takip ettigi ogrenildi.",
+      "source": "Haberturk",
+      "trust": 7.5
     }
   ],
   "squad": {
@@ -221,7 +235,7 @@
     "cm": ["Orkun Kokcu", "Amir Hadziahmetovc", "Quinten Timber"],
     "cam": ["Junior Olaitan", "Joao Mario"],
     "lw": ["Leandro Trossard", "Ilhan Fakili"],
-    "rw": ["Vaclav Cerny", "Milot Rashica"],
+    "rw": ["Vaclav Cerny", "Milot Rashica", "Oguz Aydin"],
     "st": ["Hyeon Gyu Oh", "Semih Kilicsoy"]
   }
 }
