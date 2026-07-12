@@ -152,7 +152,21 @@
       "injury": "Yok",
       "details": "Besiktas'tan ayrilan Ersin Destanoglu, Birlesik Arap Emirlikleri ekibi Al-Jazira ile 3 yillik anlasma sagladi.",
       "source": "Sercan Dikme",
-      "trust": 5
+      "trust": 8
+    },
+    {
+      "id": 12,
+      "name": "Terem Moffi",
+      "status": 4,
+      "team": "OGC Nice",
+      "date": "12.07.2026",
+      "season": "26/27",
+      "age": 27,
+      "value": "8M€",
+      "injury": "Yok",
+      "details": "Besiktas, bonservisi Nice'te olan Nijeryali golcuyu forvet listesine ekledi. Oyuncunun takimdan ayrilmak istedigi, Nice'in de uygun teklife sicak baktigi belirtildi.",
+      "source": "Sporx",
+      "trust": 6
     }
   ],
   "squad": {
@@ -168,4 +182,4 @@
     "rw": ["Vaclav Cerny", "Milot Rashica"],
     "st": ["Hyeon Gyu Oh", "Semih Kilicsoy"]
   }
-}
+    }
