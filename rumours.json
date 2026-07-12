@@ -166,7 +166,21 @@
       "injury": "Yok",
       "details": "Besiktas, bonservisi Nice'te olan Nijeryali golcuyu forvet listesine ekledi. Oyuncunun takimdan ayrilmak istedigi, Nice'in de uygun teklife sicak baktigi belirtildi.",
       "source": "Sporx",
-      "trust": 7
+      "trust": 6
+    },
+    {
+      "id": 13,
+      "name": "Benjamin Pavard",
+      "status": 4,
+      "team": "Inter Milan",
+      "date": "12.07.2026",
+      "season": "26/27",
+      "age": 30,
+      "value": "15M€",
+      "injury": "Yok",
+      "details": "5M€'lik net maasi Inter icin yuk olan oyuncunun ayrilmasi bekleniyor. Fransiz defansin adi Besiktas ile aniliyor ve kendisi de Turkiye'ye sicak bakiyor ancak maas buyuk bir etken.",
+      "source": "La Gazzetta Dello Sport",
+      "trust": 8
     }
   ],
   "squad": {
@@ -182,4 +196,4 @@
     "rw": ["Vaclav Cerny", "Milot Rashica"],
     "st": ["Hyeon Gyu Oh", "Semih Kilicsoy"]
   }
-    }
+}
