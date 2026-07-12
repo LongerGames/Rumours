@@ -2,7 +2,7 @@
   "rumours": [
     {
       "id": 1,
-      "name": "Alexandr Nubel",
+op      "name": "Alexandr Nubel",
       "status": 3,
       "team": "Bayern Munich",
       "date": "07.07.2026",
@@ -166,7 +166,7 @@
       "injury": "Yok",
       "details": "Besiktas, bonservisi Nice'te olan Nijeryali golcuyu forvet listesine ekledi. Oyuncunun takimdan ayrilmak istedigi, Nice'in de uygun teklife sicak baktigi belirtildi.",
       "source": "Sporx",
-      "trust": 6
+      "trust": 7
     }
   ],
   "squad": {
