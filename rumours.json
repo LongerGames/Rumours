@@ -195,6 +195,20 @@
       "details": "Besiktas yeniden harekete gecti. Augsburg'un 15 M€ talebine karsilik Besiktas 8 M€ teklif etti. Futbol direktoru Onder Ozen'in ozel gorusme yaptigi oyuncudan 'Gelirim' yaniti alindi, pazarliklar suruyor.",
       "source": "Sozcu",
       "trust": 7
+    },
+    {
+      "id": 15,
+      "name": "Quinten Timber",
+      "status": 2,
+      "team": "Marseille",
+      "date": "12.07.2026",
+      "season": "26/27",
+      "age": 25,
+      "value": "18M€",
+      "injury": "Yok",
+      "details": "Marsilya yasadigi ekonomik sikintilar nedeniyle bircok oyuncusunu satilik listesine koydu. Besiktas bu firsati degerlendirmek uzere Marsilya ile ilk temasi kurmaya hazirlaniyor.",
+      "source": "Fotomac",
+      "trust": 5.5
     }
   ],
   "squad": {
@@ -204,10 +218,10 @@
     "lcb": ["Tiago Djalo", "Emirhan Topcu"],
     "lb": ["Kassoum Ouattara", "Ridvan Yilmaz"],
     "dm": ["Wilfried Ndidi", "Kartal Kayra Yilmaz"],
-    "cm": ["Orkun Kokcu", "Amir Hadziahmetovc"],
+    "cm": ["Orkun Kokcu", "Amir Hadziahmetovc", "Quinten Timber"],
     "cam": ["Junior Olaitan", "Joao Mario"],
     "lw": ["Leandro Trossard", "Ilhan Fakili"],
     "rw": ["Vaclav Cerny", "Milot Rashica"],
     "st": ["Hyeon Gyu Oh", "Semih Kilicsoy"]
   }
-    }
+}
