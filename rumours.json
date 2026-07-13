@@ -136,7 +136,7 @@
       "age": 24,
       "value": "8M€",
       "injury": "Yok",
-      "details": "Super Lig'i tercih eden Fasli golcu, son birkac saat icinde Besiktas and Trabzonspor ile goruntulu gorusme gerceklestirdi.",
+      "details": "Super Lig'i tercih eden Fasli golcu, son birkac saat icinde Besiktas ve Trabzonspor ile goruntulu gorusme gerceklestirdi.",
       "source": "Sacha Tavolieri",
       "trust": 8
     },
@@ -223,13 +223,27 @@
       "details": "Besiktas yonetiminin yerli oyuncu havuzunu genisletmek amaciyla Oguz Aydin'in durumunu yakindan takip ettigi ogrenildi.",
       "source": "Haberturk",
       "trust": 7.5
+    },
+    {
+      "id": 17,
+      "name": "Leo Pereira",
+      "status": 2,
+      "team": "Flamengo",
+      "date": "13.07.2026",
+      "season": "26/27",
+      "age": 30,
+      "value": "5.50M€",
+      "injury": "Yok",
+      "details": "Besiktas, Flamengo formasi giyen Brezilyali stoper Leo Pereira'yi listesine ekledi. Transfer icin sartlarin zorlanmasi bekleniyor.",
+      "source": "beIN SPORTS",
+      "trust": 8.5
     }
   ],
   "squad": {
     "gk": ["Alexandr Nubel", "Dogan Alemdar"],
     "rb": ["Amir Murillo", "Taylan Bulut"],
     "rcb": ["Emmanuel Agbadou", "Yasin Ozcan"],
-    "lcb": ["Tiago Djalo", "Emirhan Topcu"],
+    "lcb": ["Tiago Djalo", "Emirhan Topcu", "Leo Pereira"],
     "lb": ["Kassoum Ouattara", "Ridvan Yilmaz"],
     "dm": ["Wilfried Ndidi", "Kartal Kayra Yilmaz"],
     "cm": ["Orkun Kokcu", "Amir Hadziahmetovc", "Quinten Timber"],
@@ -238,4 +252,4 @@
     "rw": ["Vaclav Cerny", "Milot Rashica", "Oguz Aydin"],
     "st": ["Hyeon Gyu Oh", "Semih Kilicsoy"]
   }
-}
+    }
